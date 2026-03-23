@@ -1,6 +1,6 @@
 import { useEffect, useState, type ReactNode } from "react";
 import { Github, Linkedin, Mail, Smartphone, MapPin, GraduationCap, ExternalLink, Menu, X } from "lucide-react";
-import profileImage from "@/assets/profile.jpeg";
+import profileImage from "@/assets/profilee.jpg";
 
 // --- Data Definitions ---
 const navItems = [
