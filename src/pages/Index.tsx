@@ -219,7 +219,7 @@ const HeroSection = () => (
         
         <div className="inline-flex items-center rounded-2xl border border-border bg-white/5 px-5 py-2 text-sm text-muted-foreground transition-all hover:border-primary/50 hover:bg-primary/10">
           <span className="mr-2 h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
-          Open to <span className="font-bold text-primary mx-1">AI/ML Opportunities & </span><span className="font-bold text-primary ml-1">Projects and</span>
+          Open to <span className="font-bold text-primary mx-1">AI/ML Opportunities and </span><span className="font-bold text-primary ml-1">Projects</span>
         </div>
         
         <h1 className="text-5xl font-black tracking-tight sm:text-6xl md:text-7xl leading-tight">
