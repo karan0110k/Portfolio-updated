@@ -219,7 +219,7 @@ const HeroSection = () => (
         
         <div className="inline-flex items-center rounded-2xl border border-border bg-white/5 px-5 py-2 text-sm text-muted-foreground transition-all hover:border-primary/50 hover:bg-primary/10">
           <span className="mr-2 h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
-          Open to <span className="font-bold text-primary mx-1"></span> & <span className="font-bold text-primary ml-1">Projects</span>
+          Open to <span className="font-bold text-primary mx-1">AI/ML Opportunities & </span><span className="font-bold text-primary ml-1">Projects and</span>
         </div>
         
         <h1 className="text-5xl font-black tracking-tight sm:text-6xl md:text-7xl leading-tight">
@@ -263,7 +263,7 @@ const HeroSection = () => (
 
         <div className="mt-8 flex flex-wrap gap-4 text-sm justify-center">
           <span className="info-tag flex items-center gap-2">
-            <GraduationCap className="h-4 w-4" /> B.Tech CSE (AI) @ Chitkara University • CGPA 9.32
+            <GraduationCap className="h-4 w-4" /> B.Tech CSE (AI) @ Chitkara University • CGPA 9.29
           </span>
           <span className="info-tag">
             Agentic AI • LLM Apps • ML Models
@@ -322,7 +322,7 @@ const AboutSection = () => (
             <h3 className="card-title mb-4 pb-3 border-b border-border">Academic Background</h3>
             <ul className="space-y-2.5 text-sm text-muted-foreground">
               <li className="p-2.5 rounded-lg bg-white/5 hover:bg-white/10 transition-all">
-                <strong className="text-primary font-bold">B.Tech CSE (AI)</strong>, Chitkara University: <strong className="text-primary font-bold">CGPA 9.32</strong>
+                <strong className="text-primary font-bold">B.Tech CSE (AI)</strong>, Chitkara University: <strong className="text-primary font-bold">CGPA 9.29</strong>
               </li>
               <li className="p-2.5 rounded-lg bg-white/5 hover:bg-white/10 transition-all">Class XII (2022): 82.6%</li>
               <li className="p-2.5 rounded-lg bg-white/5 hover:bg-white/10 transition-all">Class X (2020): 87.8%</li>
